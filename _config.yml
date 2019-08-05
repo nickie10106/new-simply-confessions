@@ -12,10 +12,9 @@ title:      Simply Confessions
 logo:        # Logo Image URL
 description: A blog about philosophy and psychology.
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         https://ecstatic-shirley-9ad1e8.netlify.com # The base hostname & protocol for your site
-twitter:     https://twitter.com/aspirethemes
-facebook:    https://www.facebook.com/aspirethemes
-instagram:   https://www.instagram.com/aspirethemes
+url:         https://www.simplyconfessions.com # The base hostname & protocol for your site
+twitter:     https://twitter.com/simplyconfess_
+instagram:   https://www.instagram.com/_simply_confessions_/
 
 markdown:  kramdown
 permalink: pretty
