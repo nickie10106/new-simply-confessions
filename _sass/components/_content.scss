@@ -32,10 +32,18 @@
   h3,
   h4,
   h5,
-  h6 {
+  h6, {
     font-family: $font-sans-serif;
     font-weight: $font-weight-regular;
   }
+
+  p:first-child:first-letter {
+  float: left;
+  color: #903;
+  font-size: 5em;
+  line-height: 0.85em;
+  padding-right: 0.1em;
+}
 
   dd,
   ol,
@@ -45,4 +53,10 @@
       -webkit-padding-start: half($base-spacing-unit);
     }
   }
+
+ mark{
+   font-family: $font-sans-serif;
+   font-weight: $font-weight-regular;
+   background-color: #f6c667;
+ }
 }
