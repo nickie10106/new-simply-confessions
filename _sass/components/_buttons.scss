@@ -2,7 +2,7 @@
   Components > Buttons
 \*------------------------------------*/
 
-$btn-bg:       #332851;
+$btn-bg:       #7F58AF;
 $btn-bg-hover: #9AE1E2;
 
 .c-btn {
@@ -21,7 +21,7 @@ $btn-bg-hover: #9AE1E2;
   white-space: initial;
   background-color: $btn-bg;
   font-size: $font-size-medium;
-  font-family: $font-sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: $font-weight-regular;
 
   @include attention() {
