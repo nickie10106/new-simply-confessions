@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Myers Briggs: Does it Work?
+title: Myers Briggs Does it Work?
 image: '/images/posts/2019-08-07/cover.jpg'
 ---
 
