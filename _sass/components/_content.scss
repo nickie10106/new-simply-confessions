@@ -37,6 +37,11 @@
     font-weight: $font-weight-regular;
   }
 
+  p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: $font-weight-regular;
+  }
+
   dd,
   ol,
   ul {
@@ -47,7 +52,7 @@
   }
 
  mark{
-   font-family: $font-sans-serif;
+   font-family: inherit;
    font-weight: $font-weight-regular;
    background-color: #f6c667;
  }
