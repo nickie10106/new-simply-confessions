@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dumb or Fun: MBTI Test
+title: Dumb or Fun - MBTI Test
 image: '/images/posts/2019-08-07/cover.jpg'
 ---
 
