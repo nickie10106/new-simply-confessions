@@ -8,9 +8,9 @@
 theme_version: 1.0.3
 
 # Site settings
-title:       Aspire
+title:      Simply Confessions
 logo:        # Logo Image URL
-description: Clean News & Magazine Jekyll Theme
+description: A blog about philosophy and psychology.
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         https://ecstatic-shirley-9ad1e8.netlify.com # The base hostname & protocol for your site
 twitter:     https://twitter.com/aspirethemes
@@ -49,11 +49,11 @@ defaults:
 
 # Authors
 authors:
-  ahmad:
-    name:     Ahmad Ajmi
-    bio:      Author & developer of Aspire Themes. Minimalist. I love creating clean and minimal websites.Technical writer at SitePoint.
+  Nickie:
+    name:     Nickie
+    bio:
     gravatar: https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
-    email:    info@aspirethemes.com
+    email:    simplyconfessions00@gmail.com
     website:  http://aspirethemes.com
     github:   https://www.github.com/aspirethemes
     twitter:  https://twitter.com/aspirethemes

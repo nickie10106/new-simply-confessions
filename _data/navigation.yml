@@ -1,6 +1,8 @@
 - title: Home
   url: /
-- title: About
-  url: /about
-- title: Style Guide
-  url: /style-guide
+  - title: About Us
+    url: /aboutus
+- title: Blog
+  url: /blog
+- title: Contact
+  url: /contact
