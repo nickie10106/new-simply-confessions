@@ -8,6 +8,7 @@ $btn-bg-hover: #F495A1;
 .c-btn {
   display: inline-block;
   padding: half($base-spacing-unit) double($base-spacing-unit);
+  border-radius:25px;
 
   cursor: pointer;
   transition: $global-transition;
