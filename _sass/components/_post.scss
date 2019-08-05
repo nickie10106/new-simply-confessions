@@ -10,8 +10,8 @@
 
   &__title {
     font-weight: $font-weight-regular;
-    line-height: initial;
-    color: #454E93;
+    line-height: 200;
+    color: $color-gray;
 
     @include mq($from: desktop) {
       font-size: $font-size-h1;
