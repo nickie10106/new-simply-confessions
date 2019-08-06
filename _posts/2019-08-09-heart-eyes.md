@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hufflepuff Conundrum - Why Do People Not Want To Be A Hufflepuff?
-image: '/images/posts/2019-08-14/cover.jpg'
+image: '/images/posts/2019-08-09/cover.jpg'
 ---
 
 <h3>Hufflepuffs: Their role in the Wizarding Universe</h3>
