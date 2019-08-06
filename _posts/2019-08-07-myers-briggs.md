@@ -33,14 +33,18 @@ All self-report questionnaires poses an inherent issue in validity. Many have he
 
 It is not difficult to come to terms with the fact that most people are (to a certain degree) blind to their own faults. Most people are quick to push blame onto others or claim that they are stress-resistant when they are not. They usually over-estimate their own strengths and attempt to downplay their weaknesses. These lead to inaccuracies in the quiz and will often lead people to get skewed results.
 
-Aside from those problems, the quiz also creates a self-fulfilling prophecy. Similar to the way character quizzes or Astrological signs impacted Gen Z, the MBTI's results instill a sense of self in those who take it. Many who take it believe that the results are a way to rationalise their personality traits and simplify their flaws and strengths as simply just 'because they are a certain personality type'.
-
-Much more alarmingly,
+Aside from those problems, the quiz also creates a self-fulfilling prophecy. Similar to the way character quizzes or Astrological signs impacted Gen Z, the MBTI's results instill a sense of self in those who take it. Many who take it believe that the results are a way to rationalise their personality traits and simplify their flaws and strengths as simply just 'because they are a certain personality type'. Many attempt to use the test as a replacement for conducting a true reflection on their inner personalities. This means that they are likely to dismiss things like their background and environment which are not accounted for in the test.
 
 With all that said, the test still holds many truths. If taken ideally and honestly, the test can help one to understand themselves better and help one to find a community amongst other similar individuals.
 
 <h3>So... Just Dumb Fun?</h3>
+Unfortunately, yes. The MBTI is just another means of passing time and possibly finding a community or maybe even a fun way to calculate your compatibility with your loved ones.
 
+Although the test does hold substantial theories, the human psyche is much more complicated than any test could fathom. As such, it is almost impossible to categorise humans into just 16 categories.
+
+Still, there is no denying that MBTI test helps people in many ways. It can be used to help writers better understand their characters' world view or maybe even understand more about others around you. The test does hold merits but it is just important for those who take it to understand that the results are not gospel. 
+
+It is much better to just take most things as a pinch of salt!
 
 <h3>Sources + Interesting Reads</h3>
 <h4>Online Links</h4>
