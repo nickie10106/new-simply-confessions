@@ -1,14 +1,18 @@
 ---
 layout: post
-title: Hufflepuff Conundrum - Why Do People Not Want To Be A Hufflepuff?
+title: Heart Eyes Test - Catadora (Shera Princess of Power)
 image: '/images/posts/2019-08-09/cover.jpg'
 ---
 
-<h3>Hufflepuffs: Their role in the Wizarding Universe</h3>
-![Myers Briggs - 16 Personality](/images/posts/2019-08-07/1.jpg)
+<h3>Character Study: Catra & Adora</h3>
+<h4>Adora</h4>
+![Shera](/images/posts/2019-08-09/1.jpg)
+
+<h4>Adora</h4>
+![Catra](/images/posts/2019-08-09/2.jpg)
 
 
-<h3>Perceptions of Hufflepuffs in Real Life</h3>
+<h3>Best Friends to </h3>
 
 <h3>Kindness & Weakness</h3>
 
