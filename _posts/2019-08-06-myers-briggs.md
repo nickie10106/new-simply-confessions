@@ -47,9 +47,8 @@ It is much better to just take most things as a pinch of salt!
 
 <h3>Sources + Interesting Reads</h3>
 <h4>Online Links</h4>
-[The Life of Katherine & Isabel Myers Briggs](https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/isabel-briggs-myers.htm?bhcp=1)
-[Official 16 Personality Test](https://www.16personalities.com/free-personality-test)
-[Personality Types](https://www.16personalities.com/academy)
+[Official 16 Personality Test](https://www.16personalities.com/free-personality-test)<br>
+[Personality Types](https://www.16personalities.com/academy)<br>
 [The Medium Article: Self-Fulfilling Prophecy Behind the MBTI Tests](https://medium.com/psyc-406-2016/self-fulfilling-prophecy-behind-the-mbti-tests-my-experience-285869b49e7)
 
 <h4>Books</h4>
