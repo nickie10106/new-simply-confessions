@@ -1,16 +1,5 @@
 ---
-layout: page
+layout: blog
 title: Blog
 image: '/images/pages/about.jpeg'
 ---
-<div class='o-wrapper'>
-  <div class='o-grid js-grid'>
-    {% for post in paginator.posts %}
-      {% include post-card.html %}
-    {% endfor %}
-  </div>
-
-  <div class='o-grid'>
-    {% include pagination.html %}
-  </div>
-</div>
