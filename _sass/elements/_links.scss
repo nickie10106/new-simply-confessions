@@ -8,7 +8,7 @@ a {
   transition: $global-transition;
 
   @include attention() {
-    color: #E792A0;
+    color: #F7D6A4 !important;
     text-decoration: none;
   }
 }
