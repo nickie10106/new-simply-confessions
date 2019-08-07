@@ -4,11 +4,11 @@
 
 a {
   color: $color-link;
-  text-decoration: none;
+  text-decoration: none !important;
   transition: $global-transition;
 
   @include attention() {
-    color: #4E8179;
+    color: #E792A0;
     text-decoration: none;
   }
 }
