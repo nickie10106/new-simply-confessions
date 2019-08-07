@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: Blog
 image: '/images/pages/about.jpeg'
 ---
