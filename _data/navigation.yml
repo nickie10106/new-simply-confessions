@@ -1,6 +1,6 @@
 - title: About Us
   url: /about
 - title: Blog
-  url: /layouts/blog.html
+  url: /blog
 - title: Contact
   url: /contact
