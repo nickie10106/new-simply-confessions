@@ -9,7 +9,7 @@ theme_version: 1.0.3
 
 # Site settings
 title:      Simply Confessions
-logo:        /images/general/logo.png
+logo:        /Users/Nickie/Desktop/Branding/new-simply-confessions/images/general/logo.png
 description: A blog about philosophy and psychology.
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         https://www.simplyconfessions.com # The base hostname & protocol for your site
