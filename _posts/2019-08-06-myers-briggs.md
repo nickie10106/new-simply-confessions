@@ -2,6 +2,7 @@
 layout: post
 title: Dumb or Fun - MBTI Test
 image: '/images/posts/2019-08-07/cover.jpg'
+tags: 'Dumb or Fun'
 ---
 
 <h3>What is the MBTI Test?</h3>
